@@ -6,8 +6,8 @@ This roll bundles the PROJ cartographic projection software.
 
 For more information about PROJ please visit the official web page:
 
-- <a href="http://trac.osgeo.org/proj/" target="_blank">PROJ</a> is library used
-to generate cartographic projections.
+- <a href="http://trac.osgeo.org/proj/" target="_blank">PROJ</a> is a library
+used to generate cartographic projections.
 
 
 ## Requirements

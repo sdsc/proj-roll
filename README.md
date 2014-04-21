@@ -1,5 +1,13 @@
 # SDSC "proj" roll
 
+### THIS ROLL HAS BEEN DEPRECATED
+
+The functionality of the proj-roll has been rolled into a new SDSC Rocks roll named <a href="https://github.com/sdsc/geo-roll/" target="_blank">GEO</a>.
+
+Please use the <a href="https://github.com/sdsc/geo-roll/" target="_blank">geo-roll</a> instead of this one.
+
+-----
+
 ## Overview
 
 This roll bundles the PROJ cartographic projection software. 
